@@ -1,7 +1,16 @@
+@charset "UTF-8";
+/* CSS Document */
+
 body {background-color: pink;}
-  h2 {
-    color: blue;
-  }
-  p {
+
+h1{
+    color: blueviolet;
+}
+
+h2{
+    color: orange;
+}  
+
+p {
     color: red;
   }
